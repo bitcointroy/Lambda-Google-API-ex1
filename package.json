@@ -1,0 +1,26 @@
+{
+  "name": "api-ex1-google-places",
+  "version": "1.0.0",
+  "description": "API ex1 Google Places API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitcointroy/Lambda-Google-API-ex1.git"
+  },
+  "author": "Troy Bradley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitcointroy/Lambda-Google-API-ex1/issues"
+  },
+  "homepage": "https://github.com/bitcointroy/Lambda-Google-API-ex1#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "node-fetch": "^2.0.0",
+    "nodemon": "^1.14.12"
+  }
+}
