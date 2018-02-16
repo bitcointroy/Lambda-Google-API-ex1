@@ -1,0 +1,956 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_AAAAFD3fgP6xQo5rnrtfvZ4AOHVIRC-4gD7TxIr5w-UWBa3T1BDWTxMETnGpddrOtdp8N2NeLlYXp5jJb_rrKcofj7MLYN7CX7R4BCNvJ5XB6yJ4fzNc88SusH6mkji3iAQLbX8h19uRRF4HUomRm-0hM3WnbZUYxZKnZJfoJxJrqi_U9PtQYD-GT93MIkBrtGxb6K3gl4ZEzBKJ9AAMvVnbWW_TYi_dEW7Smcfex3MX-MAouWu5Cl4AYxVz9rsecboT0WN06iPTdxNr_cQ7T3iJdim2k5UHhfkJ_PuYenjh1YVizh3dxPsUgDkX_-R_I_-cOmWAWRq7HEOEyrhNb7SGLYSEHIRVKv2QIzla8JlFTP_dmEaFBBGE21T2gMOBgYEju-hi9VJ_4iA",
+    "results": [
+        {
+            "formatted_address": "117 SE 2nd Ave, Miami, FL 33131, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.7729991,
+                    "lng": -80.1900342
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.77434307989272,
+                        "lng": -80.18875187010728
+                    },
+                    "southwest": {
+                        "lat": 25.77164342010728,
+                        "lng": -80.19145152989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "26a19384da685ffc06d5435e9838c3a3d348b59d",
+            "name": "Eternity Coffee Roasters",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116010494449820581533/photos\">Rimtas Dargis</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAV9JhaAXBVn_UU-XURESQQBbFxU10BN6cPxyWaPAo1EJAXRxG1-VMY75JxWc02oLSFRXhWaDVrWAKtpjuNf29-x1UMtqUnu8oW-3PcyUmauTVwzxCNWxl49gcewbA-cfhEhCzvJCUqDZb3YnERhhZ1-fGGhTjJNnDkAEsdpDxqb2s6w__VAeBQQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJOyqXyp222YgRppenkMuofTU",
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "CmRbAAAAE_vRf1wDulGPoPt5JpLDLfQx3MmEy-1COSjHuPom0j_hy1izkVEUHIb8rrrnJO3thpzZBTugV2uhlcbjaauCz8HoDvzmEw1DcglaIPIr4zSNWwL4N1LZOeg814lF4ZF8EhAhKjqrp2LcfY6SscyedBvbGhSxgKt6WKMN4D0Dk1T6LCHZgyQfdw",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "1035 N Miami Ave, Miami, FL 33136, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.7845085,
+                    "lng": -80.19382569999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.78585547989272,
+                        "lng": -80.19255182010728
+                    },
+                    "southwest": {
+                        "lat": 25.78315582010728,
+                        "lng": -80.19525147989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "feefb964ae2aa9a6adc597eb580a6369bae16e81",
+            "name": "ALL DAY",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 679,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110638036631851006544/photos\">ALL DAY</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdgS9MXz5Hyin9zAJUz9CVRUXAdRwXTGLk39QqayGzJx7b988cNuScKePe8ET20ykMkFHYh8X4obcJU7ZbXXfjYRkdJ6cswp1TTFjSWBQBsUEeZn4uTzmrusAcXndU7Z-EhBxdsT4qKNHqLEF3EL-cd5ZGhRio3X1n4Y0ujkXK-oyf30cGvPdUQ",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ23awxKO22YgRT3o5P_CHuNM",
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "CmRbAAAAApV_ZFReohy_a5lsxx4aQRh3XdIhUWJXAvscmxBeH5--4cLydkcYo0fcYoO6WNXmCP4kgJFf7-rk8DaqeyFH45s6nRdpXYpVIogYZsNSgWfHr5eHE6u7h5lyLKSN2h1lEhBSvCELn4jm1hMqR6igl8taGhRV4qohFxPdLzPSyRF3gIl4Mg4dww",
+            "types": [
+                "cafe",
+                "bar",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "2390 NW 2nd Ave, Miami, FL 33127, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.7998834,
+                    "lng": -80.19929549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.80123692989272,
+                        "lng": -80.19781967010728
+                    },
+                    "southwest": {
+                        "lat": 25.79853727010727,
+                        "lng": -80.20051932989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "3dc47e994a87eb727cf44c8f19adbd90484c363c",
+            "name": "Panther Coffee Wynwood",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100225831329034723620/photos\">Kyle Kutter</a>"
+                    ],
+                    "photo_reference": "CmRaAAAARgHZW6UoLHzIisPQCE81xQWHwuaOxJtldOsVH3CBrH-r3AMLjrzmEqHsapNc4PaI3lvghM9Lk6kDrkQBji80R5UIeEx3rDWPbSMDEE0G-YjuETNQGjk8jKiY_YfwK2Q-EhAhw9F9Gvkw6u91niCzACNlGhTs9FJVSMfkwPT6fp9C_1m_SrgXBA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJG6HQcrK22YgREOwX4PyCF8c",
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "CmRbAAAAiazZ5DvYSd0Fl375vw99SaskeQe1giFOf7L9bfUmNDsWg5zsMNsvy_iutEdzvchWTAUTGX1VgRYmqjO9oGZDhAqBesN3FxfAuV_QOrc3WFXa6PVmoeZ6grRdcLQugDF7EhDnNW_jinu2mez2UM3wTBnJGhR4RNlO_zVYiOUL_pxZTWsJ-LZMAQ",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "1657 N Miami Ave unit c, Miami, FL 33136, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.7914077,
+                    "lng": -80.19426279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.79281852989272,
+                        "lng": -80.19312962010729
+                    },
+                    "southwest": {
+                        "lat": 25.79011887010728,
+                        "lng": -80.19582927989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "77d46339b5f1e05074f4bf5dadbc7271278e4427",
+            "name": "Vice City Bean",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100788210638118052249/photos\">Vice City Bean</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZ-TKntozdTw7ibzMa7x-ZL9mXxJYuV2AoVT_FfElA5J9NGL3p7nSx2nilzZGCY4KFrEljULn2Szjl0rM3QZFku_4xupyb5E55KypI0Awd04yPI-RNCBMwcMOTTaEGI3PEhBbEAjDkxBMchP79SkJi07bGhTfoCfkwIpbjYODrga32U_x4KAoww",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJPafykqW22YgRgVtxDd-DJUs",
+            "rating": 4.7,
+            "reference": "CmRbAAAA8aAyaYEfsNbXB1onqHv1Ryms0jEXTx8V99znrP4kzp-BwoMwSHIzA_hMeJp9l_XSUB8mIoklil0K71lZZrNbG_ow4wUiKnOcDc6_sVlzzLS_IqLCwammu8rGtiJeGyvLEhBKScBZwRChp26wmEbn4GNKGhSwVF5dI1bYsJ1jsXm_sCwYDbWSZw",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "632 S Miami Ave, Miami, FL 33130, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.7676833,
+                    "lng": -80.193495
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.76902762989272,
+                        "lng": -80.19206357010728
+                    },
+                    "southwest": {
+                        "lat": 25.76632797010728,
+                        "lng": -80.19476322989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "6639fa9d8ede494a926792d71ea679a7be5bdbf9",
+            "name": "Puroast Coffee",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 450,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106546449952275036150/photos\">Puroast Coffee</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYk6NTtvOwxIEqoRXrXab2JoW4Mm21zsFALtXIWoco35MMIonaI6uDFhBRhEaMr-3hib_24b4q3mdQfufWyCjT-Botq28CdCCXI0Znv4bl-4uuE3VUuvsx1NLu7L1Ed1kEhAK8JxdEQ1dmmfTeOSoZwB9GhQgbS18jCn46HuScByiZH9-Xl9c0A",
+                    "width": 819
+                }
+            ],
+            "place_id": "ChIJAUCLo4S22YgRs_UDxiUwwxw",
+            "rating": 4.6,
+            "reference": "CmRbAAAAuwdZGDDJoZP16bjaUHJ9yZCv6CGNT1PaBujn1A5k_5Q8A05_dAM1v6_PSX-8Vcut0ZR0sO0T8kgkYKf222tazB4LOG4axOOWhGn42UgGD6ySzbpszTgW_9l5hlRofe2bEhCfNgVtHKQlXOAY9xmidoeiGhRUOrQ3iwob7zWhK2KwmHPixxVueg",
+            "types": [
+                "cafe",
+                "bakery",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "2230 NW 2nd Ave, Miami, FL 33127, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.7982884,
+                    "lng": -80.19917869999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.79964382989272,
+                        "lng": -80.19772357010729
+                    },
+                    "southwest": {
+                        "lat": 25.79694417010728,
+                        "lng": -80.20042322989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "5487616e88b99a11c18f347ecf1e49c390722e25",
+            "name": "Dr Smood - Wynwood Organic Cafe",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 332,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102158122339948519895/photos\">Dr Smood - Wynwood Organic Cafe</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA06l7ZKyDi50zaZLi-H6IJTG5FHQZJVYu3bozHBnu3s3vUnUx6Vffsupbo_rxJeHT_oc-jIkC7zFb_JesZg-E8eID1e17lcdVYYFAOo98E964JAYE4pVaYeRFhdwDnoCdEhAtSoyvrJROL1RhLCi-BAvmGhR5QSGKrVXuEMLtHGiusDLG8k8Tcw",
+                    "width": 810
+                }
+            ],
+            "place_id": "ChIJB3xa-LG22YgRGq0V9KOsdUw",
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "CmRbAAAAOcf0iUOarb4Qq0h_x2SUYBi2IPJnl5doEJaUi0mU1pNTf1tegH3YNqEh3i6TDxbh3ATX7CLakP5z0Lz5QWiQGdgvfkxoFhpJ_BHqmroLO-3IQFVYMAOHmeRuJCTeadh4EhAF6A-CFhnxTiZ39Q4JCBA7GhTeU2gSHCilPw8nvP6S9xT363_nSw",
+            "types": [
+                "cafe",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "6246 SW 8th St, Miami, FL 33144, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.763111,
+                    "lng": -80.2971726
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.76455032989272,
+                        "lng": -80.29582527010729
+                    },
+                    "southwest": {
+                        "lat": 25.76185067010728,
+                        "lng": -80.29852492989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "34978a6760bb2a199adf89751857f41d2d96c9e0",
+            "name": "White Rose Coffee",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109268136112568722324/photos\">Chris A</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALlOop2z29ZunTPFzW5hfS7wjG-k1hgG07CimZfT5vvDN_fZ4lw3fjAuM8s2sxMm1YIf1RcOFjnxRGEzvfs8DLGEtpYHSkZ40JN-Ti2OIU_At3xhlmnqRq4GtVERd3ZP2EhDgsP93SRuzOKrd8uzhfBj1GhST2g5bIreYwZwNd4qW7VQOVUT_Cg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX4liOjW42YgR2cY4TxNPePk",
+            "rating": 4.6,
+            "reference": "CmRbAAAAe2qd_LHUmkqewvtLO_sHYeRuErct0Zq1n2pJfGov8i8qLBzyOHhjd1pXSGwTjy0cQTwC5JVxUDxQTN_0Jm7_sELWEUC85o1sCjJCdsFrRpcdSMQUPvzi0merZSFnccxXEhAPLu4P1Pr927L81fpvMFE6GhTu53Q7JSmL33B_0sqLGc2Busdf2Q",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "2750 NW 3rd Ave Suite 21, Miami, FL 33127, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.802761,
+                    "lng": -80.201273
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.80411202989272,
+                        "lng": -80.19986852010729
+                    },
+                    "southwest": {
+                        "lat": 25.80141237010728,
+                        "lng": -80.20256817989274
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "8c1fe951af9bef84eda7d1039db57d330383b8fc",
+            "name": "MIAM - Wynwood",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104120756599399795185/photos\">Ignacio Llorente</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzbytGqeUZRSRM2jdAzjaygo6W8-d6XJRN_EtH0X3vtKCyRjnOdoOEKN3nceGoyT5YiWKXCPMCvTB_z91zO70XqsIo95ur2rscd0k2icZzeJI8rAC3O5CkQ2drv0fAUc9EhC6q-8L9BcE9d2e3A8H9_NPGhSdE4eiAu78kmy6tJUi5TYEA5E8qg",
+                    "width": 3984
+                }
+            ],
+            "place_id": "ChIJMZYy4rK22YgRM_O-D2pKGDw",
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "CmRbAAAAbPwWacnR2230ssouLKO7KdL72N4Ec4LqZ-j68yYYTYKRN3RHnacKPpT3qy-iwd3olfavaOdxc2M7RVRSKtn0xPI52Hbp_rTc1ZsKcXVPyjNdkp1iuCF8fv7Eaa6nexRAEhDnaAe3s9Cg7k6TM8BvI6m6GhTb5InVTqLgw5IEDTNb8fAsz-LM3g",
+            "types": [
+                "cafe",
+                "bakery",
+                "grocery_or_supermarket",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "1875 Purdy Ave, Miami Beach, FL 33139, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.7945769,
+                    "lng": -80.1443299
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.79592612989272,
+                        "lng": -80.14301412010727
+                    },
+                    "southwest": {
+                        "lat": 25.79322647010727,
+                        "lng": -80.14571377989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "44ba55a2ff8d43a9b693a23fad941c4a7ca35595",
+            "name": "Panther Coffee Miami Beach",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111981728026814254507/photos\">Gerardo Hernández</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAFlU6T6rf0dxB1BFCahi1DM6vHOE8o8e4MXYPf5hqgjfx0wqZNMf2EMyFjm2fgzTdUUBABO3uYqTruB72vQrd98PD0-NpKuCxkw_FrNNvwC9-DJS-JNoE1yrW0e1JUNFyEhABVGbCZSospLmepWbHLgNNGhRZgnMD29WzsEGvMVP4HlPP7QCeCA",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJRae43X202YgR2NlLwmaNVws",
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "CmRbAAAAGr0Q4lJp89wpxfQu-dU17CRKqTrUw51n4KcO1eBf95Nnle-iAzG0_r-3-wE_55E6XO06TPtOn8ttEcuX821Gvpb34PZ87n1dN3s-YT3xMwi-3MZnCb0J_Knj2nHhxfWaEhD9JwABet7S0A4B_-twBBY-GhQxfQhc_PuqALR7XALEvAhGo9fFFQ",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "3407 Main Hwy, Miami, FL 33133, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.727636,
+                    "lng": -80.242368
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.72907292989272,
+                        "lng": -80.24112697010727
+                    },
+                    "southwest": {
+                        "lat": 25.72637327010728,
+                        "lng": -80.24382662989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "8507c3f0dd958776b3261aa8caab9438d6e24a7b",
+            "name": "Panther Coffee Coconut Grove",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 663,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109931047298243345177/photos\">Panther Coffee Coconut Grove</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXFdWhlj4IK5wBXmEW9Hm1CG2UDMMK2L-sxCIy9ljZLViBzD6lhPib_YGuiCPLYEW-Z2GsDWjuSMyxNsbDkyTh-mFhj5qGR_d8oeOu8a3egIeOYHqXocF_PkO8H6MjH_gEhCAzXSj3XGNvivecMnK09zeGhQdrxW8gvinKQ7qBWpY9oHdPfZLmA",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJf4Gym8-32YgRZbTDebFFNJk",
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "CmRbAAAAWEItBYr7QveltUKErIbJJ6vBjHxfpyydIs2wIsv0Y1SpfS4VXciw1fYmEVWtvJsD_JAnQ26XIhKZVSrTl52eIz4EGoOVpwHAqW8oM8Jz44EqqCneR8ubc6WgVDI1Rq6eEhBDz8NbFfueP1DayZ8zRO0VGhRaID0nYYlWTw-Vf53f37aWsV_QKg",
+            "types": [
+                "cafe",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "3451 NE 1st Ave #102B, Miami, FL 33137, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.8095843,
+                    "lng": -80.1921577
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.81095817989272,
+                        "lng": -80.19096617010729
+                    },
+                    "southwest": {
+                        "lat": 25.80825852010728,
+                        "lng": -80.19366582989274
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "cdf412fbda2b19821655f9ba678b0c4dfdeccec0",
+            "name": "Angelina's Coffee & Juice",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112255397690976033469/photos\">Tang Keith</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABmRVjLby_jH5DALzulEc0lSy2cUMKzlquMNh1FXSnulcdPYfc-DVmdlxZr47npriQaioNjTLwA0F3b5J6mRLVxi9Ffgz8T3S802S3t9y7Ynh81jgbkJPE_EYh_dbAdumEhDOMtg3DFD8w1cRpzP3rsqDGhT75MVLdP89mjhPZ_lMvbWoL5hSGw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ--VYIFSx2YgRi5NCmEc0y3g",
+            "price_level": 1,
+            "rating": 4.3,
+            "reference": "CmRbAAAA2WgRu9ywVcpy2X7FVoSApCWsaogoLXhbxjHp_Qwt2mS9ReSd_uFPAEdTtH2t2Nw-gsX3PI_sSrZ2EqtBf3ocJx1OEuHbwtywCDDcUuBRQFig2t7TIrg9l0lV1SblviSLEhBVwA4SXjYGlMXIJGqcY-BGGhTpoxLDGndTYFi2pZHY6ZhGA7n4dg",
+            "types": [
+                "cafe",
+                "meal_takeaway",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "359 NW 28th St, Miami, FL 33127, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.8030003,
+                    "lng": -80.2024043
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.80425432989272,
+                        "lng": -80.20104987010727
+                    },
+                    "southwest": {
+                        "lat": 25.80155467010728,
+                        "lng": -80.20374952989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "3aef212cb5642d1d0fd50f68ac04bd91d504063e",
+            "name": "Brothers & Brawlers by DIROCCO",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107799397290255274193/photos\">Daniel Molinares</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA3-RBnSZS1qbRC0X1HgtrdWj_LHijeBMt9lybN5ypP9nCNS5NvnaZD8pLXcLTKpFzsqRlLu3N7DwvDQzNCaskdFaE1LZPN7hysMp3PNcPYimc7FxbXrh3eBOQWeYgjPiHEhAYid9kU1MggBjf4_8mmqDgGhTXU8b_k3CUsLVygbzBrrQwxRbQxw",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJUWoeFrO22YgRekEPIY-jmoM",
+            "price_level": 2,
+            "rating": 4.8,
+            "reference": "CmRbAAAAtgH9-CoRGxj4lnFtrCJV3Uymxt4AFdLi1FDo5KgAOWXzzw2iY2TQVps5gPja2qekKFFi6Hv5d9s4O_imt6fuPVni0r-5DpU7a_nQFz-W7Gzx1Mzm_H5XxHMsj85sFe8xEhBs-DQkAtLUa6XdP3LGilaPGhRRJcQIFtR6g2e7bzt8gtvz6RSx5Q",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "13130 Biscayne Blvd, North Miami, FL 33181, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.8965153,
+                    "lng": -80.1625348
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89786512989272,
+                        "lng": -80.16118497010729
+                    },
+                    "southwest": {
+                        "lat": 25.89516547010728,
+                        "lng": -80.16388462989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "6dd877d1d0a239e41e245855492f231604321e62",
+            "name": "Alaska Coffee Roasting of Miami",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 639,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104888166228890991350/photos\">Alaska Coffee Roasting of Miami</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA6P0cm4JrzrBo19r7Vq3im4_-gHNaTW3fa5_z-WpMbpiqYlOxY5_9OujgJ79xL2UUllSsRhv9LSRyooJ_sOyikPhqEufuwaDEv2AE1KU1QohJqo2yy75HiVudXzQPvhfQEhDbeTSwlnbmW4pa5GUZB1qCGhT_ZYQ9G596T8sGhCugK4pIYZ5gQA",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJj6zpZYqt2YgR_ris-G1Y-80",
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "CmRbAAAAESZ248uGND_sFWVdbn7M4nKfBd4E8pNEmYAapCI1BRj6qyyJTCqT6EyoSnS_Ly6So-at47wJqedr8e-a-mEqCfz2UAhWL-CFfGH5Nk1cTy4nhz7r25Uy_lCDpfHOghh7EhDc0tUI_129-BkM-Lwv-pbGGhSTwvraGSLMrMp1cMRFqHYp_jOdMQ",
+            "types": [
+                "cafe",
+                "bakery",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "Columbia Shopping Plaza, 10766 SW 24th St, Miami, FL 33165, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.746046,
+                    "lng": -80.36909899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.74767532989272,
+                        "lng": -80.36777077010727
+                    },
+                    "southwest": {
+                        "lat": 25.74497567010728,
+                        "lng": -80.37047042989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "50f682415cb768d256ff6579d00d3945afa1e71b",
+            "name": "specialTEA Lounge & Café",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112553498921648691156/photos\">Liz Rita</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_5_2zuJ5HeQKF223vzT9vXahOmjCj5NCg0kA0MB9oL7UbiBZt25GvfKCexBQ-yQFCC9Xr-eot5QCUpX-FLPQWAQfslhFy-28sAvagJ1Nhq6O-ld3xsEGLXKGIVexr9iQEhA-r0pLZD22k36U6F6O1n8dGhSGRtRLc0Bo6li8b7n1_UQb7dI-7A",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJYVe9hDW_2YgRYqu1JMb1WBc",
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "CmRbAAAArEk1H4bVjkqczsxEqs1uORIfMx3ORialP_nQvIkstiZd1HUrVf3Ib0V2lYWoIcFEQQKc5WkpDD9kt5dJrz7yzGIpu6Sw9TP-tcSjuFj3srAmIXYz8C0tldoX7eZH-6nHEhDM2vdgEuCjPq0Ns6As_LgpGhTD9Krt6nsWzqbXkqSJx6J7B0_clQ",
+            "types": [
+                "cafe",
+                "bakery",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "2626 Ponce De Leon Blvd, Coral Gables, FL 33134, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.7472045,
+                    "lng": -80.25895210000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.74855627989272,
+                        "lng": -80.25742532010727
+                    },
+                    "southwest": {
+                        "lat": 25.74585662010728,
+                        "lng": -80.26012497989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "7f9847314ad523d8db374bdcfc0189126585fbdf",
+            "name": "Cafe Curuba",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1520,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100637028112603900763/photos\">John F. Sklavounos</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbTQTkBpLPF6O_iOj9WZ3VWDsHYNEYYZtD6sQe_DDE11sAMVP-aj7z5p9kCu3gjSihU-z7jRmJIRfL1LnrUY6RfDOtdxCPB55gpMx1DoSSKn7dB8tG2DAzJg43c1nztrVEhBnK8xVBprnCvF-Z0YZrnAQGhRkOfmycchYAKePVfQRVnk0TBtWQw",
+                    "width": 2688
+                }
+            ],
+            "place_id": "ChIJFyvFI5e32YgRq8gfa9nyCuk",
+            "price_level": 1,
+            "rating": 4.8,
+            "reference": "CmRbAAAA6Fuympmn6LGCJBms3AT6f5LN7SiOc_-WceuPa51KIJdjl3k5iz4V3qczkZB76qSfiS7eZ6NzWwq5xvWPGl_4dwRSS4suFZ1C9CY8IJ-Ck9fg1SAh3UwIIOaFKsf4R57yEhAsJp_Ko7Mo70CKmF2VmTJsGhRjsQuDt7-Pfu4fzkGIF0gu6XQE2g",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "7111 Collins Ave, Miami Beach, FL 33141, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.8565201,
+                    "lng": -80.1203027
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.85786627989272,
+                        "lng": -80.11905612010727
+                    },
+                    "southwest": {
+                        "lat": 25.85516662010728,
+                        "lng": -80.12175577989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4ec781d4f759f4194dec8edc194011d4b5a060d9",
+            "name": "Juice and Coffee Bar",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2269,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104165265370409941013/photos\">Juice and Coffee Bar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAMyfm5yZEejWNlR6TglrIsHilyFuK-hjIS5y9GZrM6MurOrJEMQdLz_Ex-z8hnsPVAnRaw1NyMnhsoxHFbHFlLa0rX74IaW92fO4TqjFhAqdOiqMBnCt6ALwevt3gCbYOEhD05jU_Xx8oN6HOW3TqZDq9GhSur_c1ZtYQ8kDfK_XNPF6ojiN-ew",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJn5OvWN2y2YgRilNSJ8VZ5mk",
+            "rating": 4.8,
+            "reference": "CmRbAAAA5jUVoPEg_-kU7gK8K6Ht7H5ZP2WsQHKbTL1HEq0HpN9N6rksHXmtRZovEaNWmkav3BvvHZcVZC21a-V676IlsFU42vv3uVVjlouNL-7ctvzgVx3n9cGgGs14__iCc1OsEhCK1q4gVtApNTQAN7dqd9NMGhR2Su2wM54FWg6XmlJHTs71vIeH-g",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "7580 NE 4th Ct, Miami, FL 33138, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.8451827,
+                    "lng": -80.1883158
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.84653682989272,
+                        "lng": -80.18683737010727
+                    },
+                    "southwest": {
+                        "lat": 25.84383717010727,
+                        "lng": -80.1895370298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "e2d9217ce0d06eedbd792db28347298bb09b2230",
+            "name": "Limited Edition Caffé & Vino Buono",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109995052889506326040/photos\">Danny P</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA83MUF9kPRy6vPhHlot0pqMsKqBfzNfKx6cAIWJRrLRNiunnWnsoSijBWhCtPyNzAL6PL-c6H1Bgn062NAH3C-883slQRip72yzbEo7m7VFlF6P_FMB1sQnK3GCKiv2IzEhDX6Mcc7KJ4TeaI-MfxHZVwGhRAiDM4nmlY2bmJKdhSbetxMggMXA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJNYGnu32x2YgRAI2DttZrygI",
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "CmRbAAAAYBdO-tu_TkYeA1D4oAo_Wvroxjy5sqz0LG0RV34s20H3WnJFiITh8loqI6b1eSZUEGdg55iGmA8bSlE_lh2mNeO8JTG252diYM_w59sb5XN-tDzaJ8oB88WwreuBI3kDEhAwT1Kn0VF7s8iGzQmDrdKDGhSCFMnvRyK-PkOcuTd42udnUJZRfg",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "3301 NE 1st Ave #100, Miami, FL 33137, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.8076782,
+                    "lng": -80.1927627
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.80903982989272,
+                        "lng": -80.19147187010728
+                    },
+                    "southwest": {
+                        "lat": 25.80634017010728,
+                        "lng": -80.19417152989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "3fb44fe642e2c9b84e833a3a521260c9fbe7201d",
+            "name": "Pasion del Cielo Coffee",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113008617161192007585/photos\">Riitta Kuusisto</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAzeoSKMz1b9Ltq9OJsB3VrvM5ohJ8IAKC_RIJZqgzLNmHyonPyVJGYYTgS3nwMx4y5rvCSG_s8ciVq2IIhTgAg7_W7V5yxt_6hox1mZiFAgp1g-HByhocjNY6dHcjzR8TEhAIBXWOcX8_rQeUNu2d2mjiGhTXn93u4GSI3MkLLMCfEsTGQUODkA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJm1ZyblSx2YgRzrLPd7wTB6E",
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "CmRbAAAAwvIsSdkuMMW7JEiWM6xJYYGbRq8iBa_fptdzwrkCukyZA2O6wkc7AKfR79P4kUQFtqxW911J-lMlWrQrzQCdc8m1D-QwXtlL-3gbpmqPwNzWzzx_NP2PD8hwHlIPu4_ZEhDuRt7qSKJnq0K4F-ED4KqeGhRirZfMhXE5eaMS5T8qjxX2WoYkVw",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "5801 Sunset Dr, South Miami, FL 33143, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.7045224,
+                    "lng": -80.2875334
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.70578627989272,
+                        "lng": -80.28617822010727
+                    },
+                    "southwest": {
+                        "lat": 25.70308662010727,
+                        "lng": -80.28887787989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "150693b77a77b61c65a4ef742d72a75c32b5805e",
+            "name": "Dr Smood - South Miami Organic Cafe",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112792041302000282401/photos\">Dr Smood - South Miami Organic Cafe</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAS6MM8617_NgIIWSo1LcgJKQcbmwprdQz0jO0ynw2G_WSVpShxO25-KPn7Q3RFw5ih3R5efK1mOutjExjPjd-QqIxx8Uo7t580UJHHfA4l6yALsb82HDKpULyiFLLeKmGEhBd-i_GgZaS2IQFyT5J5J6MGhRyFJ35GwrVpJrq41vKkH5IkAjryw",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ2y0IVOXH2YgRs_596FUOfXk",
+            "rating": 4.7,
+            "reference": "CmRbAAAAg_QzkV2OgOUHbJByHacKf2Pbqbf_BCc18Nj63zegX7uq9Wnuzyh14Gu_OHvlkJQpYTSMtbTqYF_F2vgdauFD-yiOUpJ5FtoBV4iiFBAt4cXJplulFMKQ7oXsne3FwGYJEhDgP4DXD-kRQ2cCQALnry6JGhQEBK19lVk36BaPJiuUCEorr15J8g",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "205 SW 8th Ave, Miami, FL 33130, USA",
+            "geometry": {
+                "location": {
+                    "lat": 25.7714718,
+                    "lng": -80.20751869999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.77281487989272,
+                        "lng": -80.20621302010727
+                    },
+                    "southwest": {
+                        "lat": 25.77011522010728,
+                        "lng": -80.20891267989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "bbece1e41c3f45a744fe6205070539556794cd12",
+            "name": "El Gallito Coffee Shop",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113171688215340033254/photos\">Htet Oo</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAi6wyRX5XzPQ65EJtDHtsVEDbAseclx_Jsn0pTYAgaV0KQqEdB3T0WS_5m7yL-kiBcK9WNd350b7xaXAknXn45NSB18nWVriBwDsFYsAE6MxEiofcFyTQtGSjwMP8g7gNEhCi1_J26G2CqDCXwL6ev9jeGhT2q-dcCGp3EyAVEGHMgc0DQ7eyOw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJJ9PW85K22YgRCFejzdSf0Gk",
+            "rating": 4.2,
+            "reference": "CmRbAAAA4ch82XYZdrqCvTftUUPoa6AfxZref1_fby96QYPOMsFg-0TjheOjgnkl7FBTLPt3wbO8CCFuYn31TS56gvdc5zpxsMwWnTj4ealiLaWa7nAE46lHbsYD46mjfihXttYZEhAxhXFEWW73q4IBnjZr1TmoGhT7S1dNa3HRNvAJoJgSqtF55tRiIg",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "status": "OK"
+}
